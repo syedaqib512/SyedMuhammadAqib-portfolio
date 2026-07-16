@@ -7,8 +7,9 @@ import './App.css'
  function App() {
   return (
     <div>
-      <h1>Welcomejbjsjjssja Aqib 🚀</h1>
+      <h1>Welcome Aqib 🚀</h1>
       <p>My First React App</p>
+      <p>app is live now</p>
 
     </div>
   );
